@@ -1,0 +1,3 @@
+--> Update all sensitive data in settings.py into .env file
+    then access them using os.environ.get() for security reasons.
+**ERROR occurred when i tried
